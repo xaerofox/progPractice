@@ -1,0 +1,6 @@
+c:\users\joeyt\onedrive\documents\visual studio 2015\Projects\CS_CodingPractice\CS_CodingPractice\bin\Debug\CS_CodingPractice.exe.config
+c:\users\joeyt\onedrive\documents\visual studio 2015\Projects\CS_CodingPractice\CS_CodingPractice\bin\Debug\CS_CodingPractice.exe
+c:\users\joeyt\onedrive\documents\visual studio 2015\Projects\CS_CodingPractice\CS_CodingPractice\bin\Debug\CS_CodingPractice.pdb
+c:\users\joeyt\onedrive\documents\visual studio 2015\Projects\CS_CodingPractice\CS_CodingPractice\obj\Debug\CS_CodingPractice.exe
+c:\users\joeyt\onedrive\documents\visual studio 2015\Projects\CS_CodingPractice\CS_CodingPractice\obj\Debug\CS_CodingPractice.pdb
+C:\Users\joeyt\onedrive\documents\visual studio 2015\Projects\CS_CodingPractice\CS_CodingPractice\obj\Debug\CS_CodingPractice.csprojResolveAssemblyReference.cache
