@@ -18,13 +18,13 @@ namespace CS_CodingPractice
  */
     class makeOutWordClass
     {
-      /*  static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine(makeOutWord("<<>>", "yay"));
             Console.WriteLine(makeOutWord("<<>>", "WooHoo"));
             Console.WriteLine(makeOutWord("[[]]", "word"));
             Console.WriteLine(makeOutWord("racecar", "word"));
-        }*/
+        }
 
         public static string makeOutWord(string o, string word)
         {

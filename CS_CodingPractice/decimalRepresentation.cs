@@ -9,9 +9,11 @@ namespace CS_CodingPractice
     // Find the # of decimal places to a number
     // EX: findDecNum(3.14) => 2
     // EX: findDecNum(3.3458349573) => 10
+
+
     class decimalRepresentation
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             
             string answer;
@@ -24,7 +26,7 @@ namespace CS_CodingPractice
                 Console.WriteLine("Try Again? (y/n)");
                 answer = Console.ReadLine();
             } while (answer == "y" || answer == "yes");
-        }
+        }*/
 
         public static int findDecNum(double val)
         {
