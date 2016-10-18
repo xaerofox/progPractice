@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="decimalRepresentation.cs" />
+    <Compile Include="FizzBuzzClass.cs" />
     <Compile Include="frontTimesClass.cs" />
     <Compile Include="makeOutWord .cs" />
     <Compile Include="middleTwo.cs" />

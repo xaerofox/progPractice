@@ -18,12 +18,12 @@ namespace CS_CodingPractice
 
     class frontTimesClass
     {
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             Console.WriteLine(frontTimes("Chocolate", 2));
             Console.WriteLine(frontTimes("Something", 4));
             Console.WriteLine(frontTimes("HI", 5));
-        }
+        }*/
 
         public static string frontTimes(string str, int n)
         {
