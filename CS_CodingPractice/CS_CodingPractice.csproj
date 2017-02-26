@@ -46,8 +46,10 @@
     <Compile Include="decimalRepresentation.cs" />
     <Compile Include="FizzBuzzClass.cs" />
     <Compile Include="frontTimesClass.cs" />
+    <Compile Include="GetSandwichClass.cs" />
     <Compile Include="makeOutWord .cs" />
     <Compile Include="middleTwo.cs" />
+    <Compile Include="no14Class.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

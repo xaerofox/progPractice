@@ -22,23 +22,23 @@ namespace CS_CodingPractice
 
     class FizzBuzzClass
     {
-        static void Main(string[] args)
-        {
-            string[] fbArr;
+        //static void Main(string[] args)
+        //{
+        //    string[] fbArr;
 
 
-            fizzBuzzModified(1, 6);
-            fizzBuzzModified(1, 8);
-            fizzBuzzModified(1, 11);
+        //    fizzBuzzModified(1, 6);
+        //    fizzBuzzModified(1, 8);
+        //    fizzBuzzModified(1, 11);
             
 
-            fbArr = fizzBuzzModified(36, 90);
+        //    fbArr = fizzBuzzModified(36, 90);
 
-            for (int i = 0; i < fbArr.Length; i++)
-            {
-                Console.WriteLine(fbArr[i]);
-            }
-        }
+        //    for (int i = 0; i < fbArr.Length; i++)
+        //    {
+        //        Console.WriteLine(fbArr[i]);
+        //    }
+        //}
 
         public static string[] fizzBuzzModified(int start, int end)
         {
