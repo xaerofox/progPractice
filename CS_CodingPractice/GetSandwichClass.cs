@@ -34,12 +34,12 @@ namespace CS_CodingPractice
 
         }
 
-        public static void Main()
-        {
-            Console.WriteLine(getSandwich("breadjambread"));
-            Console.WriteLine(getSandwich("xxbreadbloomingjamminbreadyy"));
-            Console.WriteLine(getSandwich("xxbreadyy"));
+        //public static void Main()
+        //{
+        //    Console.WriteLine(getSandwich("breadjambread"));
+        //    Console.WriteLine(getSandwich("xxbreadbloomingjamminbreadyy"));
+        //    Console.WriteLine(getSandwich("xxbreadyy"));
 
-        }
+        //}
     }
 }

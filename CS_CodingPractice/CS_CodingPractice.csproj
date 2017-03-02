@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="decimalRepresentation.cs" />
+    <Compile Include="fakeQueue.cs" />
     <Compile Include="FizzBuzzClass.cs" />
     <Compile Include="frontTimesClass.cs" />
     <Compile Include="GetSandwichClass.cs" />

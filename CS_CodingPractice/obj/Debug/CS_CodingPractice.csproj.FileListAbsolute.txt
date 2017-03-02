@@ -15,3 +15,4 @@ E:\VCS\ProgProgram\CS_CodingPractice\bin\Debug\CS_CodingPractice.exe
 E:\VCS\ProgProgram\CS_CodingPractice\bin\Debug\CS_CodingPractice.pdb
 E:\VCS\ProgProgram\CS_CodingPractice\obj\Debug\CS_CodingPractice.exe
 E:\VCS\ProgProgram\CS_CodingPractice\obj\Debug\CS_CodingPractice.pdb
+E:\VCS\ProgProgram\CS_CodingPractice\obj\Debug\CS_CodingPractice.csprojResolveAssemblyReference.cache
