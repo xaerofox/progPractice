@@ -14,10 +14,10 @@ namespace CS_CodingPractice
 {
     class fakeQueue
     {
-        private Stack<int> inbox = new Stack<int>();
-        private Stack<int> outbox = new Stack<int>();
+        private Stack<Object> inbox = new Stack<Object>();
+        private Stack<Object> outbox = new Stack<Object>();
 
-        public void enqueue(int item)
+        public void enqueue(Object item)
         {
             inbox.Push(item);
         }
