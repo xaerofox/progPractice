@@ -43,11 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="countYZ.cs" />
     <Compile Include="decimalRepresentation.cs" />
+    <Compile Include="Driver.cs" />
     <Compile Include="fakeQueue.cs" />
     <Compile Include="FizzBuzzClass.cs" />
     <Compile Include="frontTimesClass.cs" />
     <Compile Include="GetSandwichClass.cs" />
+    <Compile Include="gHappy.cs" />
     <Compile Include="makeOutWord .cs" />
     <Compile Include="middleTwo.cs" />
     <Compile Include="no14Class.cs" />

@@ -50,22 +50,22 @@ namespace CS_CodingPractice
             return !inbox.Any() && !outbox.Any();
         }
 
-        public static void Main()
-        {
-            fakeQueue queue = new fakeQueue();
+        //public static void Main()
+        //{
+        //    fakeQueue queue = new fakeQueue();
 
-            queue.enqueue(1);
-            queue.enqueue(3);
-            queue.enqueue(4);
-            queue.enqueue(5);
-            queue.front();
+        //    queue.enqueue(1);
+        //    queue.enqueue(3);
+        //    queue.enqueue(4);
+        //    queue.enqueue(5);
+        //    queue.front();
 
-            while (!queue.isEmpty())
-                queue.dequeue();
+        //    while (!queue.isEmpty())
+        //        queue.dequeue();
 
-            Console.WriteLine("Queue status: " + queue.isEmpty());
+        //    Console.WriteLine("Queue status: " + queue.isEmpty());
 
 
-        }
+        //}
     }
 }
