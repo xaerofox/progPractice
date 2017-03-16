@@ -10,10 +10,29 @@ namespace CS_CodingPractice
     {
         public static void Main()
         {
-            CanBalance canBal = new CanBalance();
-            int[] nums = { -15,20,-30,-5,-1 };
+            /* The following comes from Lynda.com - C# Interfaces and Generics.  The challenge is Building a random number generator using an interface. */
+            InterfaceChallenge randNumber = new InterfaceChallenge();
+            string str;
 
-            Console.WriteLine(canBal.canBalance(nums));
+            do
+            {
+                Console.Write("Enter a number for the upper bound:");
+                str = Console.ReadLine();
+                try
+                {
+                    double upperBound = Double.Parse(str);
+                    Console.WriteLine("\nRandom number between 0 and " + upperBound + ": " 
+                        + randNumber.GetRandomNum(upperBound));
+                }
+                catch (Exception e) { }
+            } while (str != "exit");
+
+            /* ------------------------------------------------------------------------------------------------------------------------------------------*/
+
+            //CanBalance canBal = new CanBalance();
+            //int[] nums = { -15,20,-30,-5,-1 };
+
+            //Console.WriteLine(canBal.canBalance(nums));
 
             //countYZ countYZObj = new countYZ();
 
@@ -29,6 +48,10 @@ namespace CS_CodingPractice
             //Console.WriteLine(gHappyObject.gIsHappy("xxggxx"));
             //Console.WriteLine(gHappyObject.gIsHappy("g"));
             //Console.WriteLine(gHappyObject.gIsHappy("xxggyygxx"));
+
+
+
+
 
         }
     }
