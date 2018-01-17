@@ -11,7 +11,7 @@ namespace CS_CodingPractice
     // EX: findDecNum(3.3458349573) => 10
 
 
-    class decimalRepresentation
+    class DecimalRepresentation
     {
         /*static void Main(string[] args)
         {
@@ -28,7 +28,7 @@ namespace CS_CodingPractice
             } while (answer == "y" || answer == "yes");
         }*/
 
-        public static int findDecNum(double val)
+        public static int FindDecNum(double val)
         {
             int i = 0;
             if (val != 0)

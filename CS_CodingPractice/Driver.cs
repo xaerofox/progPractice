@@ -24,7 +24,11 @@ namespace CS_CodingPractice
                     Console.WriteLine("\nRandom number between 0 and " + upperBound + ": " 
                         + randNumber.GetRandomNum(upperBound));
                 }
-                catch (Exception e) { }
+                catch (Exception e)
+                {
+                    Console.WriteLine($"{e.Message}");
+                    throw e;
+                }
             } while (str != "exit");
 
             /* ------------------------------------------------------------------------------------------------------------------------------------------*/

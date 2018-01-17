@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace CS_CodingPractice
 {
-    class fakeQueue
+    class FakeQueue
     {
         private Stack<int> inbox = new Stack<int>();
         private Stack<int> outbox = new Stack<int>();
